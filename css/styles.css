@@ -191,6 +191,8 @@ h1, h2, h3 {
 .contenido-hero h2,
 .contenido-hero p {
     color: var(--blanco);
+    display: flex;
+    align-items: center;
 }
 
 
