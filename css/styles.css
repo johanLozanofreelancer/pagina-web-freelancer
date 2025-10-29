@@ -16,6 +16,7 @@ html {
 }
 
 .navegacion-principal,
+.hero,
 .servicios,
 .formulario {
     scroll-snap-align: center;
